@@ -1,0 +1,4 @@
+fbtpackage
+==========
+
+Distribution with FluidBootstrapTheme
