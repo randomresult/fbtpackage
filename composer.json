@@ -1,5 +1,5 @@
 {
-    "name": "fluidtypo3/fbtpackage",
+    "name": "FluidBT/fbtpackage",
     "description": "Distribution with FluidBootstrapTheme ",
     "require": {
         "fluidtypo3/flux": "7.1.0",
