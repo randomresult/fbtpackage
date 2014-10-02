@@ -1,0 +1,5 @@
+plugin.tx_fbtpackage.view {
+	templateRootPath = {$plugin.tx_fbtpackage.view.templateRootPath}
+	partialRootPath = {$plugin.tx_fbtpackage.view.partialRootPath}
+	layoutRootPath = {$plugin.tx_fbtpackage.view.layoutRootPath}
+}

@@ -1,0 +1,5 @@
+plugin.tx_fbtpackage.view {
+	templateRootPath = EXT:fbtpackage/Resources/Private/Templates/
+	partialRootPath = EXT:fbtpackage/Resources/Private/Partials/
+	layoutRootPath = EXT:fbtpackage/Resources/Private/Layouts/
+}
